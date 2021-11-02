@@ -1,1 +1,1 @@
-<?php echo "hello la plateforme!" ?>
+<?php echo "hello la plateforme!" //affiche  hello la plateforme ?>
