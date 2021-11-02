@@ -1,9 +1,9 @@
 <?php 
-$str= "LaPlateforme ";
+$str= "LaPlateforme ";//string
 $str2= "Vive ";
 $str3= "!";
-$val=6+4;
-$myBool=false;
+$val=6+4;//valeur
+$myBool=false;//bool
 ?>
 <?php
 echo $str2;
