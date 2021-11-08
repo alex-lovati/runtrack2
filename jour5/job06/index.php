@@ -1,6 +1,6 @@
 <?php
 
-$str = "un bonbon un gAteau et pourquoi pas une Larve";
+$str = "aA bB eE gG lL sS tT";
 
 function leetspeak($str){
 
@@ -26,6 +26,7 @@ function leetspeak($str){
     elseif ($str[$i] == "t" or $str[$i] == "T") {
     $str[$i] = "7";
     }
+    echo leetspeak($str);
 }
 }
 ?>
